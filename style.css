@@ -1,0 +1,45 @@
+body {
+  background-color: darkslateblue;
+}
+
+#text {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+#game {
+  max-width: 500px;
+  max-height: 400px;
+  background-color: lightgray;
+  color: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#controls {
+  border: 1px black solid;
+  padding: 5px;
+}
+
+#stats {
+  border: 1px black solid;
+  color: black;
+  padding: 5px;
+}
+
+#jobStats {
+  display: none;
+  border: 1px black solid;
+  color: silver;
+  padding-left: 10px;
+  background-color: maroon;
+}
+
+/*.jobName {
+  padding-right: 100px;
+}
+
+.completion {
+  padding-right: 100px;
+}
